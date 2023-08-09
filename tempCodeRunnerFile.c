@@ -1,0 +1,1 @@
+    printf("%d\n",Delete(&arr,4));
